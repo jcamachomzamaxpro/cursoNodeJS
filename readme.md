@@ -8,14 +8,14 @@
   <br>
 </h1>
 
-<h4 align="center">Documentacion de mi aprendizaje con <a href="http://electron.atom.io" target="_blank">Node JS</a>.</h4>
+<h4 align="center">Documentacion de mi aprendizaje con <a href="https://nodejs.org/es" target="_blank">Node JS</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
+  <a href="https://nodejs.org/es">
     <img src="https://img.shields.io/badge/node%20JS-grey?style=for-the-badge&logo=node.js"
          alt="Gitter">
   </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"></a>
   
 </p>
 
@@ -248,6 +248,8 @@ console.log(slug);
 // Imprimirá "ejemplo-de-texto-para-convertir-en-slug"
 ```
 
+---
+
 <br>
 
 ## Creditos
@@ -257,12 +259,15 @@ Estos softwares me ayudaron:
 - [Node.js](https://nodejs.org/)
 
 
+<br>
 
+
+Agradecimientos especiales al profe Vermen
 
 ## Autor
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) 
-> GitHub [@Julian Camacho](https://github.com/amitmerchant1990)
+> LinkedIn [Julian Camacho](https://www.linkedin.com/in/julian-alejandro-camacho-mendoza-61432b278/) 
+> GitHub [@Julian Camacho](https://github.com/jcamachomzamaxpro)
 
 
