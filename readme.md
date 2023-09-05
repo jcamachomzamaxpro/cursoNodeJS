@@ -1,4 +1,5 @@
-
+<!-- Se comenta con Shift + Alt + A -->
+<!-- Tambien se puede comentar con ctl + c + k -->
 <h1 align="center">
   <br>
   <a href="https://nodejs.org/es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" alt="Markdownify" width="300"></a>
@@ -271,3 +272,11 @@ Agradecimientos especiales al profe Vermen
 > GitHub [@Julian Camacho](https://github.com/jcamachomzamaxpro)
 
 
+<!-- npm outdated
+npm i slugify@1.0.0
+npm update slugify
+npm uninstall slugify
+(cuando subimos un repositorio quitamos el node modules
+y para volver a tenerlo ponemos:
+npm install
+) (no se borra nunca packgae.json ni package-lock.json) -->
